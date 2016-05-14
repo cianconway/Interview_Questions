@@ -6,3 +6,9 @@ def fibonacci(n):
 
 for i in range (1,10):
 	print fibonacci(i)
+
+#def fibonacci():
+ #   a, b = 0, 1
+  #  while True:
+   #     yield a
+    #    a, b = b, a + b
