@@ -32,3 +32,7 @@ first list.
 Every integer can be described as sum of square numbers, like 12=4+4+4. 
 Write a function that returns the min # of square numbers needed.
 e.g. f(12)=3, f(9)=1, f(3)=3
+
+### try_catch.py
+
+Try and catch errors
