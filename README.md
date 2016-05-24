@@ -36,3 +36,8 @@ e.g. f(12)=3, f(9)=1, f(3)=3
 ### try_catch.py
 
 Try and catch errors
+
+### is_palindrome.py
+
+Checked whether an inputted string is a plaindrome and returns True or False
+if so.
