@@ -27,7 +27,7 @@ G, Global (module) — Names assigned at the top-level of a module file, or decl
 B, Built-in (Python) — Names preassigned in the built-in names module : open,range,SyntaxError
 
 ### Anonymous function
-An anonymous function is a function that is defined without a name
+An anonymous function is a function that is defined without a name. Lambda function
 
 ### Decorators
 Decorators dynamically alter the functionality of a function, method, or class without having to directly use subclasses or change the source code of the function being decorated. A Python decorator is a specific change to the Python syntax that allows us to more conveniently alter functions and methods
