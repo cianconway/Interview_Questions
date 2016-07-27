@@ -41,3 +41,11 @@ Generators are iterators, but you can only iterate over them once. It's because 
 
 ### Yield
 Yield is a keyword that is used like return, except the function will return a generator.
+
+### Pickling
+It is used for serializing and de-serializing a Python object structure. Any object in python can be pickled so that it can be saved on disk. What pickle does is that it “serialises” the object first before writing it to file. Pickling is a way to convert a python object (list, dict, etc.) into a character stream
+
+### PEP 8
+PEP 8 is the Python project's code style guideline
+
+### 
